@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    color:white;;
+    background-image:url("https://cdn.wallpapersafari.com/96/19/LbSCfB.jpg");
+    height:100%;
+    
+}
+li,ul{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+    text-align:left;
+}
+button{
+    margin-top: 10px;
+    text-align:left;
+    background-color: #333333;
+    color:white;
+}
+input[type="text"],input[type="email"],input[type="tel"]{
+    text-align: left;
+    margin-top: 10px;
+    background-color: white;
+    width:100%
+}
+input[type="submit"]{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40%;
+    background-color: #333333;
+    color:white;
+}
+div.container{
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align:left;
+}
+hr{
+    border-top: 3px double;
+}
